@@ -2,8 +2,8 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
+[![Build Status](https://scrutinizer-ci.com/g/tzsk/crypt/badges/build.png?b=master)](https://scrutinizer-ci.com/g/tzsk/crypt/build-status/master)
+[![StyleCI](https://styleci.io/repos/100473294/shield?branch=master)](https://styleci.io/repos/100473294)
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
