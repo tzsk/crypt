@@ -15,7 +15,7 @@ class CryptServiceProvider extends ServiceProvider
             __DIR__.'/../Config/crypt.php' => config_path('crypt.php'),
         ], 'config');
 
-        $this->app->bind('tzsk-crypt', function() {
+        $this->app->bind('tzsk-crypt', function () {
             return new Crypter();
         });
     }
