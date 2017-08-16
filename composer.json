@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "tzsk\\crypt\\": "src"
+            "Tzsk\\Crypt\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "tzsk\\crypt\\": "tests"
+            "Tzsk\\Crypt\\": "tests"
         }
     },
     "scripts": {
